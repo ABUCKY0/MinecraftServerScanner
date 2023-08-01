@@ -4,11 +4,11 @@ A Server Scanner written in python, originally made with the purpose to find the
 
 # Documentation
 
-`-j` `--java` Scan for Minecraft Java Servers. Requires one or more CIDR Notated Ranges separated by spaces.
-`-b` `--bedrock` Scan for Minecraft Bedrock Servers. Requires one or more CIDR Notated Ranges separated by spaces.
-`-p` `--players` Scan for specific players in the playerlist.
-`-pO` `--port` Port to use. **DEFAULTS TO 25565 SO IT MUST BE USED WHEN SCANNING FOR BEDROCK SERVERS**
-`-d` `--debug` Logs to the console window for every server with status or error messages.
+`-j` `--java` Scan for Minecraft Java Servers. Requires one or more CIDR Notated Ranges separated by spaces.  
+`-b` `--bedrock` Scan for Minecraft Bedrock Servers. Requires one or more CIDR Notated Ranges separated by spaces.  
+`-p` `--players` Scan for specific players in the playerlist.   
+`-pO` `--port` Port to use. **DEFAULTS TO 25565 SO IT MUST BE USED WHEN SCANNING FOR BEDROCK SERVERS**  
+`-d` `--debug` Logs to the console window for every server with status or error messages.  
 
 # Features
 
