@@ -21,3 +21,4 @@ When I ran it, it ran was jumping between 400-1000, and it took about an hour to
 
 I wouldn't recommend using it on your home wifi if possible, because of a thing called https://abuseipdb.com. As far as i'm aware, it's mostly cosmetic, and doesn't appear to actually do anything. If you can get a good cloud provider though, you can often prevent dropped packets (if that actually occurs for this script) which can find servers eaiser.
 
+You might get reported to your ISP if you do it too much though.
